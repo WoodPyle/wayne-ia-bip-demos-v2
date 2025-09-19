@@ -115,6 +115,7 @@ wayne-ia-bip-demos-v2/
 ## 🎥 Video Demonstrations
 
 Watch the demos running at Wayne IA speeds:
+- [Quick summary with all 4 demos](https://youtu.be/ZkvmKGMP8d0)
 - [Clinical Trial Processing](https://youtu.be/demo1) *(Coming soon)*
 - [Aerospace Certification](https://youtu.be/demo2) *(Coming soon)*
 - [Healthcare Scaling](https://youtu.be/demo3) *(Coming soon)*
