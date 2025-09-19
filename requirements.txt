@@ -1,0 +1,15 @@
+# Wayne IA BIP Demos V2 - Requirements
+# These demos use only Python standard library!
+# No external dependencies required.
+
+# Python Version Requirement
+# python>=3.8
+
+# Optional (for development/testing only):
+# pytest>=7.0.0  # For running tests
+# black>=22.0.0  # For code formatting
+# flake8>=4.0.0  # For linting
+
+# Note: The demos are designed to run with zero dependencies
+# This is intentional - we want anyone to be able to run them
+# without worrying about package conflicts or installations.
